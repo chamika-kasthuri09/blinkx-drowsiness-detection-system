@@ -1,0 +1,22 @@
+# Dependencies
+node_modules/
+/.pnp
+.pnp.js
+
+# Environment & API Keys
+.env
+.env.local
+*.env
+*.log
+
+# Build Outputs & Firmware Compilations
+/dist
+/build
+.pio/
+.vscode/
+*.bin
+*.hex
+
+# OS files
+.DS_Store
+Thumbs.db
